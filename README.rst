@@ -1,9 +1,9 @@
-Quick start
+My Money Magnet App
 ===========
-
+interface/dashboard 
 Status
 ------
-
+scrolling bander
 .. image:: https://img.shields.io/github/contributors/veit/python-basics-tutorial.svg
    :alt: Contributors
    :target: https://github.com/veit/python-basics-tutorial/graphs/contributors
